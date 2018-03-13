@@ -1,0 +1,25 @@
+{
+  "name": "PizzaBot",
+  "version": "1.0.0",
+  "description": "Pizza Bot",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "vijo",
+  "license": "",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "botbuilder": "^3.9.0",
+    "restify": "^5.0.1",
+    "swagger-client": "^2.1.32",
+    "dotenv-extended": "^1.0.4"
+  }
+}
